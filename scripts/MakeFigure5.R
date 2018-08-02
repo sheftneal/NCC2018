@@ -1,3 +1,5 @@
+###!!!! NOTE: Must run MakeScript2.R prior to running this script !!!!###
+
 source("scripts/functions.R")
 
 ##################################
