@@ -13,12 +13,12 @@ If you find meaningful errors in the code or have questions or suggestions, plea
 * **outputs**: outputs of analysis are written to this directory.
 * **outputs/raw_figures**: scripts MakeFigure1-5.R will generate pdf figures in this directory.
 * **published_figures**: the versions of the figures that appear in the paper.
-* **scripts**: scripts for replication of figures, tables, and calculations.
+* **scripts**: scripts for replication of figures and calculations.
 * **NCC2018_replication.Rproj**: organizes the replication materials into an RStudio Project. 
 
 
 ### List of data files in NCC2018/inputs/
-* **BarrecaEtAlACData.rds:** A/C data from Barreca et al 2016
+* **BarrecaEtAl2016_ACData.rds:** A/C data from Barreca et al 2016
 * **CDC_UCD_forAnalysis.rds:** CDC data for calculating baseline rates
 * **income/BEA_Income_1969_2014.csv:** Income data from BEA
 * **income/GDP_deflator.csv:** GDP deflator data from the St Louis Fed
